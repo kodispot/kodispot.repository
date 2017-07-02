@@ -40,10 +40,10 @@ def ExtractAll(_in, _out):
     
 
 def Repo():
-    if os.path.exists(os.path.join(xbmc.translatePath("special://home/addons/").decode("utf-8"), 'repository.docshadrach')):
+    if os.path.exists(os.path.join(xbmc.translatePath("special://home/addons/").decode("utf-8"), 'repository.kodispot')):
         return
         
-    url = "https://github.com/XBMCSpot/docshadrach.repository/raw/master/zips/repository.docshadrach-1.0.zip"
+    url = "https://github.com/kodispot/kodispot.repository/blob/master/zips/repository.kodispot-1.0.zip?raw=true"
     addonsDir = xbmc.translatePath(os.path.join('special://home', 'addons')).decode("utf-8")
     packageFile = os.path.join(addonsDir, 'packages', 'isr.zip')
     
