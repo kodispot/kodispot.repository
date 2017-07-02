@@ -1,0 +1,14 @@
+- English:
+
+This add-on grabs and shares the link of the last movie you've played, so it can be easily copied into a playlist or just share it with a friend via WhatsApp or email.
+For copy and paste action is recommended to use Yatse app (Android).
+Also, you can type the name or, if you want to obtain the name and the cover automatically, you can enter or paste an IMDb ID or an address containing that ID.
+You can enable a video with an example in the add-on settings.
+
+
+- Español:
+
+Este add-on extrae y comparte el enlace de la última película que has reproducido, para poder copiarlo fácilmente en una lista o simplemente compartirlo con un amigo por WhatsApp o por correo.
+Para la acción de copiar y pegar se recomienda utilizar la app Yatse (Android).
+También, puedes ingresar el nombre o, si quieres obtener el nombre y la portada automáticamente, puedes ingresar o pegar un ID de IMDb o una dirección conteniendo dicho ID.
+Puedes habilitar un vídeo con un ejemplo desde la configuración del add-on.

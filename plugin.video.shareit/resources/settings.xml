@@ -1,0 +1,5 @@
+<settings>
+
+		<setting id="showinfo" type="bool" label="Show [B]INFORMATION[/B]" default="true"/>
+		<setting id="showvideo" type="bool" label="Run [B]VIDEO DEMO[/B]" default="false"/>
+</settings>
